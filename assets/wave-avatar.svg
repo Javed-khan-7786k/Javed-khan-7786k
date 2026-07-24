@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="120" viewBox="0 0 220 120" role="img" aria-labelledby="avTitle">
+  <title id="avTitle">Waving Javed avatar</title>
+  <style>
+    .hand { transform-origin: 170px 70px; animation: wave 1.6s ease-in-out infinite; }
+    @keyframes wave {
+      0% { transform: rotate(0deg); }
+      15% { transform: rotate(14deg); }
+      30% { transform: rotate(-8deg); }
+      45% { transform: rotate(14deg); }
+      60% { transform: rotate(-4deg); }
+      100% { transform: rotate(0deg); }
+    }
+  </style>
+
+  <!-- head -->
+  <circle cx="70" cy="60" r="28" fill="#0ea5a4"/>
+  <!-- body -->
+  <rect x="40" y="85" width="60" height="28" rx="8" fill="#0369a1"/>
+  <!-- arm -->
+  <g class="hand">
+    <rect x="96" y="68" width="52" height="12" rx="6" fill="#fb923c"/>
+    <circle cx="152" cy="74" r="9" fill="#fb923c"/>
+  </g>
+
+  <!-- text -->
+  <text x="10" y="20" font-family="Segoe UI, Roboto, Arial" font-size="14" fill="#0f172a">Hello — I build web apps</text>
+</svg>
