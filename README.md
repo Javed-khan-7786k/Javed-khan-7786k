@@ -1,10 +1,9 @@
 <div align="center">
-  <!-- Next-Level Hero Banner with Auto Dark/Light mode switching -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Javed-khan-7786k/Javed-khan-7786k/main/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Javed-khan-7786k/Javed-khan-7786k/main/light.svg">
-    <img alt="Javed Khan Next-Level Hero Banner" src="dark.svg" width="100%">
-  </picture>
+  <!-- Native GitHub Dark/Light Theme Switching -->
+  <a href="https://github.com/Javed-khan-7786k">
+    <img src="dark.svg#gh-dark-mode-only" alt="Javed Khan Hero Banner" width="100%">
+    <img src="light.svg#gh-light-mode-only" alt="Javed Khan Hero Banner" width="100%">
+  </a>
 </div>
 
 <br/>
@@ -33,22 +32,31 @@
 
 ---
 
-### 🏆 GitHub Achievements & Trophies
+### ⚡ About Me
+
+- 🔭 **Architecting**: Next-level web platforms using **Next.js 14, React 19, TypeScript, & Node.js**.
+- 🧠 **Focus**: Cloud Microservices, Distributed Systems, AI Agents, & Web Performance.
+- 💬 **Ask me about**: Full-Stack SaaS, System Design, PostgreSQL, Docker, AWS.
+- 📫 **Contact**: `javed.dev.tech@gmail.com`
+
+---
+
+### 🏆 GitHub Trophy Showcase
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Javed-khan-7786k&theme=darkhub&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Javed Khan Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Javed-khan-7786k&theme=darkhub&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
   </a>
 </div>
 
 ---
 
-### ⚡ Technical Stack Matrix
+### 🛠️ Expert Technical Stack
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎨 Frontend Engineering</h4>
+      <h4>🎨 Frontend Technologies</h4>
       <p>
         <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -59,7 +67,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>⚙️ Backend & Architecture</h4>
+      <h4>⚙️ Backend & Systems</h4>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -71,16 +79,16 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🗄️ Databases & Storage</h4>
+      <h4>🗄️ Databases & Caching</h4>
       <p>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>☁️ DevOps & Cloud Infrastructure</h4>
+      <h4>☁️ Cloud & DevOps</h4>
       <p>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -93,7 +101,7 @@
 
 ---
 
-### 📊 Real-Time Analytics & Streak Stats
+### 📊 Analytics & Metrics
 
 <div align="center">
   <table border="0">
@@ -109,31 +117,12 @@
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Javed-khan-7786k&theme=dark&background=0F172A&border=0F172A&stroke=7928CA&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Javed-khan-7786k&theme=dark&background=0F172A&border=0F172A&stroke=7928CA&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" alt="Streak Stats" />
 </div>
 
 ---
 
-### 🐍 Contribution Activity Matrix
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Javed-khan-7786k/Javed-khan-7786k/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Javed-khan-7786k/Javed-khan-7786k/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Javed-khan-7786k/Javed-khan-7786k/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
-</div>
-
----
-
-### 💡 Developer Philosophy & Quote
-
-> *"The best code is not just readable and scalable; it’s an elegant solution to a complex problem that empowers users."*  
-> — **Javed Khan**
-
----
-
-### 🌐 Connect & Collaborate
+### 🌐 Connect With Me
 
 <div align="center">
   <a href="https://github.com/Javed-khan-7786k">
