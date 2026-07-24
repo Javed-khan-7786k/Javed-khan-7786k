@@ -1,22 +1,17 @@
 <div align="center">
-  <!-- Native GitHub Dark/Light Theme Switching -->
-  <a href="https://github.com/Javed-khan-7786k">
-    <img src="dark.svg#gh-dark-mode-only" alt="Javed Khan Hero Banner" width="100%">
-    <img src="light.svg#gh-light-mode-only" alt="Javed Khan Hero Banner" width="100%">
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,11,20&height=200&section=header&text=Hi%20%F0%9F%90%8B%20I'm%20Javed%20Khan&fontSize=42&fontColor=00F2FE&animation=fadeIn&fontAlignY=38" width="100%"/>
 </div>
-
-<br/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Senior+Full-Stack+Architect;%F0%9F%9A%80+Building+Scalable+Next.js+14+%26+Cloud+Microservices;%F0%9F%A4%96+AI+Agents%2C+Distributed+Systems+%26+Open+Source" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Full+Stack+Software+Engineer+%26+Architect;%F0%9F%8E%93+Creator+of+iNiLabs+School+Management+System;%F0%9F%9A%80+React+19%2C+TypeScript%2C+Node.js+%26+MongoDB+Specialist;%F0%9F%98%8E+Building+Scalable+Web+Apps+%26+Modern+UI%2FUX" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Javed-khan-7786k&label=Profile%20Views&color=00f2fe&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/Javed-khan-7786k">
     <img src="https://img.shields.io/github/followers/Javed-khan-7786k?label=Followers&logo=github&style=for-the-badge&color=00F2FE&labelColor=0F172A" alt="Followers" />
   </a>
@@ -24,7 +19,7 @@
     <img src="https://img.shields.io/github/stars/Javed-khan-7786k?label=Total%20Stars&logo=github&style=for-the-badge&color=7928CA&labelColor=0F172A" alt="Stars" />
   </a>
   <a href="https://github.com/Javed-khan-7786k">
-    <img src="https://img.shields.io/badge/Status-Building_The_Future-10B981?style=for-the-badge&logo=statuspage&labelColor=0F172A" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Building_Awesome_Projects-10B981?style=for-the-badge&logo=statuspage&labelColor=0F172A" alt="Status" />
   </a>
 </div>
 
@@ -34,10 +29,61 @@
 
 ### ⚡ About Me
 
-- 🔭 **Architecting**: Next-level web platforms using **Next.js 14, React 19, TypeScript, & Node.js**.
-- 🧠 **Focus**: Cloud Microservices, Distributed Systems, AI Agents, & Web Performance.
-- 💬 **Ask me about**: Full-Stack SaaS, System Design, PostgreSQL, Docker, AWS.
-- 📫 **Contact**: `javed.dev.tech@gmail.com`
+- 🎓 **Key Project**: Architecting **[iNiLabs School Management System](https://github.com/Javed-khan-7786k/inilab-school)** — A modern full-stack ERP with React 19, TypeScript, Node.js, Express & MongoDB featuring role-based access, attendance grids, announcements, & multi-language i18n support.
+- 💻 **Core Expertise**: Full-Stack Web Development, Scalable REST APIs, Responsive UI/UX Architecture.
+- 🧠 **Tech Stack**: React 19, TypeScript, Vite, Tailwind CSS v4, Node.js, Express, MongoDB, Mongoose, JWT.
+- 💬 **Ask me about**: Role-Based Access Control (RBAC), Full-Stack Systems, Excel/PDF Exports, Dynamic Menu Mapping.
+- 📫 **Reach out to me**: `javed.dev.tech@gmail.com`
+
+---
+
+### 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎓 iNiLabs School Management System</h3>
+      <p align="center">
+        <a href="https://github.com/Javed-khan-7786k/inilab-school">
+          <img src="https://img.shields.io/github/stars/Javed-khan-7786k/inilab-school?style=for-the-badge&color=00F2FE&logo=github" alt="Stars"/>
+        </a>
+      </p>
+      <p>A modern, full-featured school management software built with React 19, TypeScript, Node.js, Express & MongoDB.</p>
+      <ul>
+        <li>🔐 <b>RBAC</b>: Admin, Teacher, Student, Parent, Receptionist, Librarian.</li>
+        <li>📋 <b>Attendance Calendar</b>: 12-Month x 31-Day dynamic color-coded tracking.</li>
+        <li>📢 <b>Announcements</b>: Notices, Events, Holidays with notification bell.</li>
+        <li>📊 <b>Reporting</b>: ExcelJS & PDF report exporting.</li>
+        <li>🌍 <b>i18n</b>: Multi-language support (English, Arabic, French, German, etc.).</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Modern Developer Portfolio</h3>
+      <p align="center">
+        <a href="https://github.com/Javed-khan-7786k/portfolio">
+          <img src="https://img.shields.io/github/stars/Javed-khan-7786k/portfolio?style=for-the-badge&color=7928CA&logo=github" alt="Stars"/>
+        </a>
+      </p>
+      <p>Personal developer portfolio showcasing interactive UI components, featured full-stack applications, skills, and direct contact options.</p>
+      <ul>
+        <li>✨ Vibrant glassmorphism UI & dark mode aesthetics.</li>
+        <li>⚡ Interactive project filter & animated section transitions.</li>
+        <li>📱 Fully responsive layout optimized for all viewports.</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -51,49 +97,52 @@
 
 ---
 
-### 🛠️ Expert Technical Stack
+### 🛠️ Technical Stack & Skills
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎨 Frontend Technologies</h4>
+      <h4>🎨 Frontend Development</h4>
       <p>
         <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript_5.5-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-        <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>⚙️ Backend & Systems</h4>
+      <h4>⚙️ Backend & API Services</h4>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python_AI-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=postman&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🗄️ Databases & Caching</h4>
+      <h4>🗄️ Databases & Storage</h4>
       <p>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>☁️ Cloud & DevOps</h4>
+      <h4>🛠️ Tools & Utilities</h4>
       <p>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+        <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -101,16 +150,16 @@
 
 ---
 
-### 📊 Analytics & Metrics
+### 📊 GitHub Statistics & Performance
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img height="185" src="https://github-readme-stats.vercel.app/api?username=Javed-khan-7786k&show_icons=true&theme=dark&hide_border=true&bg_color=0F172A&title_color=00F2FE&icon_color=7928CA&text_color=94A3B8&border_radius=10" alt="GitHub Stats" />
+        <img height="195" src="https://github-readme-stats.vercel.app/api?username=Javed-khan-7786k&show_icons=true&theme=dark&hide_border=true&bg_color=0F172A&title_color=00F2FE&icon_color=7928CA&text_color=94A3B8&border_radius=10" alt="GitHub Stats" />
       </td>
       <td>
-        <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javed-khan-7786k&layout=compact&theme=dark&hide_border=true&bg_color=0F172A&title_color=00F2FE&text_color=94A3B8&border_radius=10" alt="Top Languages" />
+        <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javed-khan-7786k&layout=compact&theme=dark&hide_border=true&bg_color=0F172A&title_color=00F2FE&text_color=94A3B8&border_radius=10" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -125,14 +174,14 @@
 ### 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://github.com/Javed-khan-7786k">
+  <a href="https://github.com/Javed-khan-7786k" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:javed.dev.tech@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Javed-khan-7786k/inilab-school">
+    <img src="https://img.shields.io/badge/School_Project-00F2FE?style=for-the-badge&logo=react&logoColor=black" alt="School Project" />
   </a>
 </div>
 
